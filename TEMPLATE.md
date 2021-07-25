@@ -4,17 +4,18 @@ _<h6 align="center"> Yes, Royal is my real name</h6>_
 
 Account age: **{{ ACCOUNT_AGE }}** years
 
-Pushed **{{ COMMITS }}** commits
-Opened **{{ ISSUES }}** issues
-Submitted **{{ PULL_REQUESTS }}** pull requests
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-Received **{{ STARS }}** stars
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+Sice the I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues and submitted **{{ PULL_REQUESTS }}** pull requests.
+
+I have also contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories and received **{{ STARS }}** stars.
+
 
 Top 5 most used languages:
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+
 
 ![](https://komarev.com/ghpvc/?username=royalbhati&color=green)
