@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, 👋 I'm Royal👨‍💻!</h1>
 
-_<h6 align="center"> Yes, Royal is my real name</h6>_
+<h4 align="center" margin-bottom="30"> A software engineer who is currently inclined towards backend and data engineering systems</h4>
 
 Account age: **{{ ACCOUNT_AGE }}** years
 
-Sice the I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues and submitted **{{ PULL_REQUESTS }}** pull requests.
+Since then, I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues and submitted **{{ PULL_REQUESTS }}** pull requests.
 
 I have also contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories and received **{{ STARS }}** stars.
 
@@ -19,3 +19,6 @@ Top 5 most used languages:
 
 
 ![](https://komarev.com/ghpvc/?username=royalbhati&color=green)
+
+_<h6 align="center"> and yes, Royal is my real name</h6>_
+
