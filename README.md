@@ -6,7 +6,7 @@ Account age: **6** years
 
 Since then, I have pushed **1386** commits, opened **13** issues and submitted **21** pull requests.
 
-I have also contributed to **30** public repositories and received **106** stars.
+I have also contributed to **31** public repositories and received **106** stars.
 
 
 Top 5 most used languages:
